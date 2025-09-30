@@ -1,0 +1,2 @@
+# resimler
+QR için görseller
